@@ -1,6 +1,6 @@
-# GesturePaint 🎨
+# AirCanvas 🎨
 
-GesturePaint is a real-time virtual painting application built using Python, OpenCV, and MediaPipe.
+AirCanvas is a real-time virtual painting application built using Python, OpenCV, and MediaPipe.
 
 It uses webcam-based hand tracking and gesture recognition to let users draw, select colors, and erase using hand gestures.
 
